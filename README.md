@@ -10,6 +10,8 @@
 
 <h4 align="left">I'm a dedicated Java full stack Developer with a passion for building robust and efficient applications. As a fresher, I’m eager to apply my knowledge of Java, object-oriented programming, and software development principles to real-world projects.</h4>
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Bhushan0249&label=Profile%20views&color=0e75b6&style=flat" alt="Bhushan0249" /> </p>
 ###
 
 <div align="center">
